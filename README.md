@@ -6,7 +6,25 @@ After considering the opening of a shop in Oahu called Surf n' Shake, we have de
 
 ## Results
 
-Provide a bulleted list with three major points from the two analysis deliverables. Use images as support where needed.
+### June Results
+![june_summary.JPG](https://github.com/mathur-nikita/surfs_up/blob/main/screenshots/june_summary.JPG)
+
+- The average temperature for the month of June was 75.
+- The highest temperature for June was 85.
+- The lowest temperature for June was 64.
+
+### December Results
+![dec_summary.JPG](https://github.com/mathur-nikita/surfs_up/blob/main/screenshots/dec_summary.JPG)
+
+- The average temperature for the month of December was 71.
+- The highest temperature for December was 83.
+- The lowest temperature for December was 56.
+
+### Overall Results
+
+- There is a difference of 4 degrees between the averages of temperatures in June and December.
+- There is a difference of 2 degrees between the max temperatures in June and December.
+- There is a difference of 8 degrees between the min temperatures in June and December.
 
 ## Summary
 
