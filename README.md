@@ -28,4 +28,10 @@ After considering the opening of a shop in Oahu called Surf n' Shake, we have de
 
 ## Summary
 
-Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
+Based on the results of temperature analysis for the months of June and December, it seems that the temperatures year-round are pretty stable and will yield more predictable sales.
+
+Two additional queries:
+
+1) Despite the fact that temperatures are similar throughout the year, our investor's previous project did not prove to be sustainable due to rain.  It would be a good idea to take rain's impact on the store into consideration as well to see how the sales of ice cream would be affected due to an assumed reduction in traffic.
+
+2) It might also be a good idea to see how ice cream sales alone are affected based on temperatures.  How do cooler temperatures impact ice cream sales?  Will these impacts cause us to consider boosting the surfing side of the business or other incentives?
